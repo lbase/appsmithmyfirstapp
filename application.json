@@ -15,6 +15,10 @@
     {
       "id": "GisNotes",
       "isDefault": false
+    },
+    {
+      "id": "Public.qgisnotes",
+      "isDefault": false
     }
   ],
   "unpublishedAppLayout": {

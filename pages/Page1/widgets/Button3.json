@@ -36,7 +36,7 @@
   "mobileRightColumn": 47,
   "mobileTopRow": 17,
   "needsErrorInfo": false,
-  "onClick": "{{navigateTo(\"notesqgis\")}}",
+  "onClick": "{{navigateTo(\"GisNotes\")}}",
   "parentColumnSpace": 17.9375,
   "parentId": "0",
   "parentRowSpace": 10,

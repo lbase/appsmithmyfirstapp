@@ -1,0 +1,2 @@
+DELETE FROM public."qgisnotes"
+  WHERE "notid" = {{data_table.triggeredRow.notid}};
