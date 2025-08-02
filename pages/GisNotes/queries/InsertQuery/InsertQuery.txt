@@ -1,0 +1,6 @@
+INSERT INTO public."qgisnotes" (
+	"qnote",
+	"moreinfo")
+VALUES (
+	'{{insert_form.formData.qnote}}',
+	'{{insert_form.formData.moreinfo}}');

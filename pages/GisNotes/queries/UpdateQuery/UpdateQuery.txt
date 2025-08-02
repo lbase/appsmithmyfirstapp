@@ -1,0 +1,4 @@
+UPDATE public."qgisnotes" SET
+		"qnote" = '{{update_form.fieldState.qnote.isVisible ? update_form.formData.qnote : update_form.sourceData.qnote}}',
+		"moreinfo" = '{{update_form.fieldState.moreinfo.isVisible ? update_form.formData.moreinfo : update_form.sourceData.moreinfo}}'
+WHERE "notid" = {{data_table.selectedRow.notid}};
